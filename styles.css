@@ -1,20 +1,36 @@
 * {
-    margin: 0px;
     font-family: 'Nunito', sans-serif;
+    margin: 0px;
 }
-
 
 .hero {
     background-image: url(images/bogota-hero.webp);
     background-size: cover;
+    height: 343px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-align: center;
-    height: 500px;
 }
 
 .hero-text {
     color: white;
     text-shadow: 1px 1px 2px black;
+}
+
+.hero-text > h1 {
+    background-color: #58582f;
+    display: inline;
+    border-radius: 10px;
+    font-size: 36px;
+}
+
+.hero-text > h3 {
+    background-color: #223a35;
+    border-radius: 10%;
+    font-size: 18px;
     margin-top: 10px;
+    padding: 10px;
 }
 
 
