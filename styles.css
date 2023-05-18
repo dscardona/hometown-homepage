@@ -59,7 +59,7 @@
 }
 
 .to-do-item {
-    width: 198px;
+    width: 170px;
     font-size: 16px;
     margin-top: 20px;
     align-self: flex-start;
@@ -74,6 +74,7 @@
 .to-do-item > h6 {
     font-weight: 300;
     font-size: inherit;
+    margin-top: 17px;
 }
 
 
@@ -83,6 +84,9 @@
     margin: 20px auto;
     display: flex;
     margin: 50px auto 30px;
+    border-radius: 10px;
+    border-bottom: 6px solid black;
+
 }
 
 .guide-text {
