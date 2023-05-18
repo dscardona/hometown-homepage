@@ -45,9 +45,8 @@
     display: flex;
     justify-content:space-around;
     align-items: center;
-    height: 378px;
+    height: 350px;
     text-align: center;
-    height: 378px;
     margin-top: 50px;
 }
 
@@ -59,7 +58,7 @@
 }
 
 .to-do-item {
-    width: 170px;
+    width: 185px;
     font-size: 16px;
     margin-top: 20px;
     align-self: flex-start;
