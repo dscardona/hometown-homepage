@@ -15,22 +15,17 @@
 
 .hero-text {
     color: white;
-    text-shadow: 1px 1px 2px black;
+    text-shadow: 10px 10px 20px #223a35;
 }
 
 .hero-text > h1 {
-    background-color: #58582f;
     display: inline;
-    border-radius: 10px;
     font-size: 36px;
 }
 
 .hero-text > h3 {
-    background-color: #58582f;
-    border-radius: 10px;
     font-size: 18px;
     margin-top: 10px;
-    padding: 5px;
 }
 
 
