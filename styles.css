@@ -47,18 +47,22 @@
     align-items: center;
     height: 378px;
     text-align: center;
+    height: 378px;
+    margin-top: 50px;
 }
+
 
 .round-image {
     width: 100px;
     height: 100px;
     border-radius: 50%;
-    
 }
 
 .to-do-item {
     width: 198px;
     font-size: 16px;
+    margin-top: 20px;
+    align-self: flex-start;
 }
 
 .to-do-item > h5 {
